@@ -1,3 +1,4 @@
+@import url("https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap");
 body {
   height: 95vh;
   width: 95;
@@ -7,4 +8,5 @@ body {
   flex-direction: column;
 }
 h1 {
+  font-family: "Press Start 2P", cursive;
 }
